@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Zea</h1>
-<h3 align="center">A passionate junior developer from Medellín - Colombia</h3>
+<h3 align="center">A passionate junior developer from Medellin - Colombia</h3>
 
 - 🔭 I’m currently working as Web Developer at [@itconsultores](https://www.linkedin.com/company/itconsultores/)
 
