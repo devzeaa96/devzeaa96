@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Zea</h1>
 <h3 align="center">A passionate junior developer from Medellín - Colombia</h3>
 
-- 🔭 I’m currently working as Web UI Developer at [@itconsultores](https://www.linkedin.com/company/itconsultores/mycompany)
+- 🔭 I’m currently working as Web Developer at [@itconsultores](https://www.linkedin.com/company/itconsultores/mycompany)
 
 - 📫 How to reach me **devzeaa96@gmail.com**
 
